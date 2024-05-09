@@ -88,7 +88,7 @@
         
         </section>
 
-        <footer id="footer">Jesus Emiliano Ruíz Gomez 01/05/24
+        <footer id="footer">Jesus Emiliano Ruíz Gomez / Sergio Yael Duran Ruiz 09/05/24
          </footer>
          <body>
     </html>
